@@ -15,23 +15,23 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Cube",
+			"name":"\u7acb\u65b9\u4f53",
 			"scale":[
-				1.4249999523162842,
-				0.30000001192092896,
-				1.5
+				16,
+				10.5,
+				0.20000000298023224
 			]
 		}
 	],
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Material.001",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
-					0.4200282692909241,
-					0.31855452060699463,
-					1,
+					0.8000156879425049,
+					0.2371707558631897,
+					0,
 					1
 				],
 				"metallicFactor":0,
@@ -41,7 +41,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Cube.001",
+			"name":"\u7acb\u65b9\u4f53",
 			"primitives":[
 				{
 					"attributes":{
@@ -120,7 +120,7 @@
 	"buffers":[
 		{
 			"byteLength":840,
-			"uri":"StageUP.bin"
+			"uri":"Wall.bin"
 		}
 	]
 }

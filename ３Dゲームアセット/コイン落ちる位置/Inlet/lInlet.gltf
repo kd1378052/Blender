@@ -15,23 +15,28 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"Cube",
+			"name":"COL",
 			"scale":[
-				1.4249999523162842,
-				0.30000001192092896,
-				1.5
+				0.5003999471664429,
+				0.05000000074505806,
+				0.48000001907348633
+			],
+			"translation":[
+				0.004999999888241291,
+				-0.2088945358991623,
+				0
 			]
 		}
 	],
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Material.001",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.001",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
-					0.4200282692909241,
-					0.31855452060699463,
-					1,
+					0.07568994909524918,
+					0.10524674504995346,
+					0.8000074625015259,
 					1
 				],
 				"metallicFactor":0,
@@ -41,7 +46,7 @@
 	],
 	"meshes":[
 		{
-			"name":"Cube.001",
+			"name":"\u7acb\u65b9\u4f53.001",
 			"primitives":[
 				{
 					"attributes":{
@@ -120,7 +125,7 @@
 	"buffers":[
 		{
 			"byteLength":840,
-			"uri":"StageUP.bin"
+			"uri":"lInlet.bin"
 		}
 	]
 }

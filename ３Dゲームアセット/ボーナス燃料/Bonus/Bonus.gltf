@@ -15,22 +15,25 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"\u7acb\u65b9\u4f53.002",
+			"name":"\u7403.002",
 			"scale":[
-				16,
-				10.5,
-				0.20000000298023224
+				0.30000001192092896,
+				0.30000001192092896,
+				0.30000001192092896
 			]
 		}
 	],
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.001",
 			"pbrMetallicRoughness":{
-				"baseColorTexture":{
-					"index":0
-				},
+				"baseColorFactor":[
+					0.5926475524902344,
+					0.0005094385705888271,
+					0.0009979648748412728,
+					1
+				],
 				"metallicFactor":0,
 				"roughnessFactor":0.5
 			}
@@ -38,7 +41,7 @@
 	],
 	"meshes":[
 		{
-			"name":"\u7acb\u65b9\u4f53.002",
+			"name":"\u7403.002",
 			"primitives":[
 				{
 					"attributes":{
@@ -52,91 +55,72 @@
 			]
 		}
 	],
-	"textures":[
-		{
-			"sampler":0,
-			"source":0
-		}
-	],
-	"images":[
-		{
-			"mimeType":"image/png",
-			"name":"WallCollar",
-			"uri":"WallCollar.png"
-		}
-	],
 	"accessors":[
 		{
 			"bufferView":0,
 			"componentType":5126,
-			"count":835,
+			"count":186,
 			"max":[
-				1,
-				1,
-				72.39999389648438
+				0.8236390948295593,
+				0.6690637469291687,
+				0.7006292939186096
 			],
 			"min":[
-				-1,
-				-1,
-				-1
+				-0.8236390948295593,
+				-0.6699007749557495,
+				-0.866025447845459
 			],
 			"type":"VEC3"
 		},
 		{
 			"bufferView":1,
 			"componentType":5126,
-			"count":835,
+			"count":186,
 			"type":"VEC3"
 		},
 		{
 			"bufferView":2,
 			"componentType":5126,
-			"count":835,
+			"count":186,
 			"type":"VEC2"
 		},
 		{
 			"bufferView":3,
 			"componentType":5123,
-			"count":2772,
+			"count":228,
 			"type":"SCALAR"
 		}
 	],
 	"bufferViews":[
 		{
 			"buffer":0,
-			"byteLength":10020,
+			"byteLength":2232,
 			"byteOffset":0,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":10020,
-			"byteOffset":10020,
+			"byteLength":2232,
+			"byteOffset":2232,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":6680,
-			"byteOffset":20040,
+			"byteLength":1488,
+			"byteOffset":4464,
 			"target":34962
 		},
 		{
 			"buffer":0,
-			"byteLength":5544,
-			"byteOffset":26720,
+			"byteLength":456,
+			"byteOffset":5952,
 			"target":34963
-		}
-	],
-	"samplers":[
-		{
-			"magFilter":9729,
-			"minFilter":9987
 		}
 	],
 	"buffers":[
 		{
-			"byteLength":32264,
-			"uri":"Wall.bin"
+			"byteLength":6408,
+			"uri":"Bonus.bin"
 		}
 	]
 }

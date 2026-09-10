@@ -15,23 +15,23 @@
 	"nodes":[
 		{
 			"mesh":0,
-			"name":"\u677f.001",
+			"name":"\u677f.002",
 			"scale":[
 				16,
 				0.10000000149011612,
-				11.25
+				13.36500072479248
 			],
 			"translation":[
 				0,
 				0,
-				-1.5
+				-34.22761535644531
 			]
 		}
 	],
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.018",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -45,7 +45,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.001",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.019",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -59,7 +59,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.003",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.020",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -73,7 +73,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.005",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.021",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -87,7 +87,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.006",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.022",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.21402913331985474,
@@ -101,7 +101,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.007",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.023",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.21402913331985474,
@@ -115,7 +115,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.008",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.024",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -129,7 +129,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.009",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.025",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -143,7 +143,7 @@
 		},
 		{
 			"doubleSided":true,
-			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.011",
+			"name":"\u30de\u30c6\u30ea\u30a2\u30eb.026",
 			"pbrMetallicRoughness":{
 				"baseColorFactor":[
 					0.800054669380188,
@@ -158,7 +158,7 @@
 	],
 	"meshes":[
 		{
-			"name":"\u7acb\u65b9\u4f53",
+			"name":"\u7acb\u65b9\u4f53.001",
 			"primitives":[
 				{
 					"attributes":{
